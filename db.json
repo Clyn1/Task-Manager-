@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Finish project proposal",
+      "description": "Complete the project proposal document and submit it by Friday.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Meeting with team",
+      "description": "Attend the weekly team meeting to discuss project progress and plan next steps.",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Update website design",
+      "description": "Revise the design of the company website to improve user experience.",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Prepare presentation slides",
+      "description": "Create slides for the upcoming client presentation scheduled for next week.",
+      "completed": false
+    }
+  ]
+}
